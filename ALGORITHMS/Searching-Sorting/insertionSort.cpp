@@ -28,5 +28,6 @@ int main(){
         cout<<"\n Array After Sorting...\t";
     for(int k=0; k<size; k++)
         cout<<arr[k]<<"\t";
+    return 0;
 }
 
