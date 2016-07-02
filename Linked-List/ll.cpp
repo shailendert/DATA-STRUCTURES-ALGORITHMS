@@ -1,3 +1,4 @@
+/* This program gives an ntroduction of the linked list */
 #include<iostream>
 #include<stdio.h>
 using namespace std;
